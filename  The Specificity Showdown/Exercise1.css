@@ -1,17 +1,17 @@
 p {
-    color: blue;
+  color: blue;
 }
 .highlight {
-    color: orange;
+  color: orange;
 }
 #main-text {
-    color: red;
+  color: red;
 }
 
 #main-text {
-    color: green !important;
+  color: green !important;
 }
 
 p.highlight {
-    color: green;
+  color: green;
 }

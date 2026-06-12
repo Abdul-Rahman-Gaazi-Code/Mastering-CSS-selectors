@@ -1,0 +1,11 @@
+li:nth-child(2) {
+  color: gray;
+}
+
+p:last-child {
+  background-color: lightblue;
+}
+
+.container p {
+  line-height: 1.6;
+}
