@@ -1,27 +1,26 @@
-
-h2, p, button {
+h2,
+p,
+button {
   margin-bottom: 10px;
 }
 
 .btn {
-    background-color: darkblue;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-   
+  background-color: darkblue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
 }
 
 .btn:hover {
-    background-color: red;
-    transform: scale(1.05);
+  background-color: red;
+  transform: scale(1.05);
 }
 
 input[type="text"]:focus {
-    border-color: blue;
-    outline: none;
+  border-color: blue;
+  outline: none;
 }
 
-
 #user-name {
-    margin: 0;
+  margin: 0;
 }

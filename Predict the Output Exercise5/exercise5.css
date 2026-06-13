@@ -1,6 +1,13 @@
 * {
-    color: orange;
+  color: orange;
 }
 div {
-    color: blue;
+  color: blue;
+}
+
+* {
+  color: purple;
+}
+.highlight {
+  color: green;
 }
